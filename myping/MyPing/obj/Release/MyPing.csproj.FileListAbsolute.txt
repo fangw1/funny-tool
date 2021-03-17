@@ -1,0 +1,17 @@
+E:\项目\房伟\MyPing V1.3\MyPing\bin\Release\MyPing.exe
+E:\项目\房伟\MyPing V1.3\MyPing\bin\Release\MyPing.pdb
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.Form1.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.Form2.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.Properties.Resources.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.csproj.GenerateResource.Cache
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.exe
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Release\MyPing.pdb
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.exe
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.pdb
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\bin\Release\MyPing.exe
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\bin\Release\MyPing.pdb
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.Form1.resources
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.Form2.resources
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.Properties.Resources.resources
+C:\Users\房伟\Desktop\交接资料\MyPing V1.3\MyPing\obj\Release\MyPing.csproj.GenerateResource.Cache

@@ -1,0 +1,83 @@
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\bin\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\ping\MyPing\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing\MyPing\bin\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPing\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing\MyPing\bin\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Recreation\Desktop\MyPing\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+D:\360云盘\VS Projects\ping\MyPing\MyPing\obj\Debug\MyPing.exe
+D:\360云盘\VS Projects\ping\MyPing\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\bin\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\bin\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Recreation\Desktop\MyPing V1.1\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\bin\Debug\MyPing.exe
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\bin\Debug\MyPing.pdb
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Recreation\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+D:\360云盘\VS Projects\ping\MyPing V1.2\MyPing\obj\Debug\MyPing.exe
+D:\360云盘\VS Projects\ping\MyPing V1.2\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.pdb
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Form1.resources
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Form2.resources
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\bin\Debug\MyPing.exe
+C:\Users\Administrator\Desktop\MyPing V1.2\MyPing\bin\Debug\MyPing.pdb
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.exe
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.pdb
+E:\项目\房伟\MyPing V1.2\MyPing\bin\Debug\MyPing.exe
+E:\项目\房伟\MyPing V1.2\MyPing\bin\Debug\MyPing.pdb
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.Form1.resources
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.Form2.resources
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+E:\项目\房伟\MyPing V1.2\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.exe
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.pdb
+E:\项目\房伟\MyPing V1.3\MyPing\bin\Debug\MyPing.exe
+E:\项目\房伟\MyPing V1.3\MyPing\bin\Debug\MyPing.pdb
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.csprojResolveAssemblyReference.cache
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.Form1.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.Form2.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.Properties.Resources.resources
+E:\项目\房伟\MyPing V1.3\MyPing\obj\Debug\MyPing.csproj.GenerateResource.Cache
